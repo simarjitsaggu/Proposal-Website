@@ -19,7 +19,7 @@ function App() {
   };
 
   const messages = [
-    "Will you be mine? 💝",
+    "Simar here! I have a question for you. Will you be mine? 💝",
     "Please? Pretty please? 🥺",
     "I'm not giving up! Consider it again? 💕",
     "You're breaking my heart... Last chance! 💔",
